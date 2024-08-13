@@ -1,0 +1,11 @@
+Tu eres un desarrollador web y se te solicita que realizar una pagina web con una galeria basica de imagenes.     
+esta se debe realizar utilizando las propiedades grid-template-areas. 
+1. debe tener un titulo que diga "Gallery with Grid CSS by IA. 
+2. el background del body debe ser #303030. 
+3. el color texto debe ser white. 
+4. debe usar 6 imagenes. 
+5. no usar javascript. 
+6. usar estilos en archivo style.css. 
+7. las imagenes deben tener un border de 1px solido, color gris y las esquinas redondeadas con 20px
+
+nota::: chatGPT, nunca entrega la misma salida para un mismo - prompt -

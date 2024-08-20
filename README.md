@@ -1,4 +1,7 @@
 Practica de prompt para IA
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![chatGPT](https://img.shields.io/badge/ChatGPT-1AAD77)
+
 # Galería Básica con Grid-Area CSS de IA
 
 Este proyecto es una prueba de creación de una página web que presenta una galería de imágenes básica, generadas a partir de un prompt ingresado en ChatGPT. La estructura y el diseño de la página se realizaron utilizando únicamente HTML y CSS, con una hoja de estilos externa llamada `style.css`.
